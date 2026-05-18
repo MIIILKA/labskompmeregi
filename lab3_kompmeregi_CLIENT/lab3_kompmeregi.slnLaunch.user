@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "lab3_kompmeregi_SERVER\\lab3_kompmeregi_SERVER.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "lab3_kompmeregi\\lab3_kompmeregi.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

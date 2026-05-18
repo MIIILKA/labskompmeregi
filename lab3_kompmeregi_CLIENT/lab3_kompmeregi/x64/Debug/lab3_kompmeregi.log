@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (lab3_kompmeregi_CLIENT.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  lab3_kompmeregi.vcxproj -> K:\Politeh\lab3_kompmeregi\lab3_kompmeregi_CLIENT\x64\Debug\lab3_kompmeregi.exe

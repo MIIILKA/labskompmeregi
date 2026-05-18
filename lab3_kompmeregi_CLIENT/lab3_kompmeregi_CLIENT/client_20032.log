@@ -1,0 +1,25 @@
+=== CLIENT START ===
+[main] pipe connected handle=220
+[main] nick=23456789
+[SendMsg] len=8 msg=23456789
+[SendMsg] wrote header ok=1 bw=4 err=0
+[SendMsg] wrote body ok=1 bw=8
+[AddLine] === Chat started. Type 'exit' to quit. ===
+[main] Receiver started
+[Receiver] started
+[RecvMsg] waiting for header...
+[RecvMsg] hdr step got=0 br=4 ok=1 err=187
+[RecvMsg] body len=34
+[RecvMsg] done: [Server] 23456789 joined the chat!
+[Receiver] got: [Server] 23456789 joined the chat!
+[AddLine] [Server] 23456789 joined the chat!
+[RecvMsg] waiting for header...
+[Input] ENTER inputLine='1234567890-'
+[Input] sending: 23456789: 1234567890-
+[SendMsg] len=21 msg=23456789: 1234567890-
+[SendMsg] wrote header ok=0 bw=0 err=232[RecvMsg] hdr step got=0 br=0 ok=0 err=109
+
+[SendMsg] wrote body ok=0 bw=0
+[Receiver] RecvMsg failed
+[AddLine] [!] Send failed.
+[AddLine] [!] Disconnected from server.

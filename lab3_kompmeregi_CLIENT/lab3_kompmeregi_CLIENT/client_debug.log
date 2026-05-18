@@ -1,0 +1,17 @@
+=== CLIENT START ===
+[main] pipe connected
+[main] nick=rtr
+[main] sending nick...
+[SendMsg] sending len=3 msg=rtr
+[SendMsg] WriteFile(len4) ok=1 bw=4 err=0
+[SendMsg] WriteFile(body) ok=1 bw=3 err=0
+[SendMsg] done
+[main] nick sent, sleeping...
+[main] Receiver thread started
+[Receiver] started
+[RecvMsg] waiting for header...
+[Input] ENTER pressed, inputLine='fjasldfjasdf;lskfd'
+[Input] calling SendMsg: rtr: fjasldfjasdf;lskfd
+[SendMsg] sending len=23 msg=rtr: fjasldfjasdf;lskfd
+[RecvMsg] header step got=0 br=0 ok=0 err=109
+[SendMsg] WriteFile(len4) ok=0 bw=0 err=232
