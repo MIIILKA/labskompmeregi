@@ -1,0 +1,18 @@
+=== SERVER START ===
+--- SERVER STARTED ---
+[Mailslot] started.
+[Server] Waiting for client...
+[Mailslot] ping received.
+[Server] Client pipe connected: 188
+[Server] Waiting for client...
+[Handler] waiting for nick on pipe 188
+[Mailslot] ping received.
+[Server] Client pipe connected: 212
+[Server] Waiting for client...
+[Handler] waiting for nick on pipe 212
+[Handler] got nick: 23456789
+[Handler] clients count now: 1
+[Server] 23456789 joined the chat!
+[Broadcast] to 1 clients: [Server] 23456789 joined the chat!
+[Broadcast] -> sending to 23456789
+[Handler:23456789] waiting for message...

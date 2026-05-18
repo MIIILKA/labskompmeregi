@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lab3_kompmeregi/lab3_kompmeregi.vcxproj" Id="2c89234c-9f3e-45e5-a8f5-576cc1ae128f" />
+</Solution>
